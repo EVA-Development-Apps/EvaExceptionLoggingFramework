@@ -30,11 +30,11 @@ evatestdox.html
 .phpunit.cache
 
 # exclude everything
-/var/*
-/var/html-coverage/*
+/var/html-coverage/
+var/cache/log/
 
 # exception to the rule
 !var/.gitkeep
 !var/cache/.gitkeep
-!var/html-coverage/.gitkeep
-!var/log/.gitkeep
+!var/cache/html-coverage/.gitkeep
+!var/cache/log/.gitkeep
