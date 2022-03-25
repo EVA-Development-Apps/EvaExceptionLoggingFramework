@@ -5,7 +5,7 @@ require_once('bootstrap.php');
 
 /**
  * @testdox EvaExceptionTest
- * 
+ * AK
  */
 
 class EvaExceptionTest extends EvaUnitBase
